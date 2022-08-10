@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "baqjr8FSdIMYVxvOIeJvY4"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "AlertBox",
+      "rect": [
+        0,
+        0,
+        1166,
+        693
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        1166,
+        693
+      ],
+      "capInsets": [
+        119,
+        119,
+        119,
+        119
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

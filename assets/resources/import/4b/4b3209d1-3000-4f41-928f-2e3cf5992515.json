@@ -1,0 +1,1177 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.JsonAsset",
+      [
+        "_name",
+        "json"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "Level",
+      {
+        "NumberOfLevels": 38,
+        "Level_1": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 2,
+          "NumberOfMapPath": 1,
+          "Hard": {
+            "TimeForSpawningKnights": 35,
+            "SpeedOfKnights": 50,
+            "MaximumKnights": 55,
+            "Enemies": {
+              "Regular": 80,
+              "Large": 0,
+              "Dark": 0,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 40,
+            "Enemies": {
+              "Regular": 65,
+              "Large": 0,
+              "Dark": 0,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          }
+        },
+        "Level_2": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 2,
+          "NumberOfMapPath": 2,
+          "Hard": {
+            "TimeForSpawningKnights": 35,
+            "SpeedOfKnights": 50,
+            "MaximumKnights": 55,
+            "Enemies": {
+              "Regular": 80,
+              "Large": 0,
+              "Dark": 0,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 40,
+            "Enemies": {
+              "Regular": 65,
+              "Large": 0,
+              "Dark": 0,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          }
+        },
+        "Level_3": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 3,
+          "NumberOfMapPath": 2,
+          "Hard": {
+            "TimeForSpawningKnights": 35,
+            "SpeedOfKnights": 50,
+            "MaximumKnights": 55,
+            "Enemies": {
+              "Regular": 80,
+              "Large": 0,
+              "Dark": 0,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 40,
+            "Enemies": {
+              "Regular": 65,
+              "Large": 0,
+              "Dark": 0,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          }
+        },
+        "Level_4": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 3,
+          "NumberOfMapPath": 2,
+          "Hard": {
+            "TimeForSpawningKnights": 35,
+            "SpeedOfKnights": 50,
+            "MaximumKnights": 60,
+            "Enemies": {
+              "Regular": 75,
+              "Large": 10,
+              "Dark": 0,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 46,
+            "SpeedOfKnights": 37,
+            "MaximumKnights": 40,
+            "Enemies": {
+              "Regular": 57,
+              "Large": 8,
+              "Dark": 0,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          }
+        },
+        "Level_5": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 2,
+          "Hard": {
+            "TimeForSpawningKnights": 35,
+            "SpeedOfKnights": 50,
+            "MaximumKnights": 60,
+            "Enemies": {
+              "Regular": 73,
+              "Large": 12,
+              "Dark": 0,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 46,
+            "SpeedOfKnights": 37,
+            "MaximumKnights": 40,
+            "Enemies": {
+              "Regular": 56,
+              "Large": 9,
+              "Dark": 0,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          }
+        },
+        "Level_6": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 2,
+          "Hard": {
+            "TimeForSpawningKnights": 35,
+            "SpeedOfKnights": 50,
+            "MaximumKnights": 60,
+            "Enemies": {
+              "Regular": 70,
+              "Large": 15,
+              "Dark": 0,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 46,
+            "SpeedOfKnights": 37,
+            "MaximumKnights": 40,
+            "Enemies": {
+              "Regular": 55,
+              "Large": 10,
+              "Dark": 0,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          }
+        },
+        "Level_7": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 3,
+          "Hard": {
+            "TimeForSpawningKnights": 35,
+            "SpeedOfKnights": 50,
+            "MaximumKnights": 60,
+            "Enemies": {
+              "Regular": 75,
+              "Large": 10,
+              "Dark": 0,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 46,
+            "SpeedOfKnights": 37,
+            "MaximumKnights": 40,
+            "Enemies": {
+              "Regular": 57,
+              "Large": 8,
+              "Dark": 0,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          }
+        },
+        "Level_8": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 3,
+          "Hard": {
+            "TimeForSpawningKnights": 38,
+            "SpeedOfKnights": 50,
+            "MaximumKnights": 60,
+            "Enemies": {
+              "Regular": 78,
+              "Large": 7,
+              "Dark": 0,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 46,
+            "SpeedOfKnights": 37,
+            "MaximumKnights": 40,
+            "Enemies": {
+              "Regular": 56,
+              "Large": 9,
+              "Dark": 0,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          }
+        },
+        "Level_9": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 3,
+          "Hard": {
+            "TimeForSpawningKnights": 37,
+            "SpeedOfKnights": 52,
+            "MaximumKnights": 60,
+            "Enemies": {
+              "Regular": 77,
+              "Large": 8,
+              "Dark": 0,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 46,
+            "SpeedOfKnights": 37,
+            "MaximumKnights": 40,
+            "Enemies": {
+              "Regular": 57,
+              "Large": 8,
+              "Dark": 0,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          }
+        },
+        "Level_10": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 4,
+          "Hard": {
+            "TimeForSpawningKnights": 37,
+            "SpeedOfKnights": 52,
+            "MaximumKnights": 60,
+            "Enemies": {
+              "Regular": 76,
+              "Large": 9,
+              "Dark": 0,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 46,
+            "SpeedOfKnights": 37,
+            "MaximumKnights": 40,
+            "Enemies": {
+              "Regular": 56,
+              "Large": 9,
+              "Dark": 0,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          }
+        },
+        "Level_11": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 4,
+          "Hard": {
+            "TimeForSpawningKnights": 36,
+            "SpeedOfKnights": 52,
+            "MaximumKnights": 60,
+            "Enemies": {
+              "Regular": 75,
+              "Large": 10,
+              "Dark": 0,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 46,
+            "SpeedOfKnights": 37,
+            "MaximumKnights": 40,
+            "Enemies": {
+              "Regular": 56,
+              "Large": 9,
+              "Dark": 0,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          }
+        },
+        "Level_12": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 2,
+          "Hard": {
+            "TimeForSpawningKnights": 36,
+            "SpeedOfKnights": 50,
+            "MaximumKnights": 120,
+            "Enemies": {
+              "Regular": 77,
+              "Large": 37,
+              "Dark": 6,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 110,
+            "Enemies": {
+              "Regular": 70,
+              "Large": 35,
+              "Dark": 5,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          }
+        },
+        "Level_13": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 2,
+          "Hard": {
+            "TimeForSpawningKnights": 36,
+            "SpeedOfKnights": 50,
+            "MaximumKnights": 120,
+            "Enemies": {
+              "Regular": 74,
+              "Large": 40,
+              "Dark": 6,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 110,
+            "Enemies": {
+              "Regular": 69,
+              "Large": 36,
+              "Dark": 5,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          }
+        },
+        "Level_14": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 2,
+          "Hard": {
+            "TimeForSpawningKnights": 35,
+            "SpeedOfKnights": 50,
+            "MaximumKnights": 120,
+            "Enemies": {
+              "Regular": 75,
+              "Large": 39,
+              "Dark": 6,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 110,
+            "Enemies": {
+              "Regular": 71,
+              "Large": 34,
+              "Dark": 5,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          }
+        },
+        "Level_15": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 3,
+          "Hard": {
+            "TimeForSpawningKnights": 36,
+            "SpeedOfKnights": 50,
+            "MaximumKnights": 120,
+            "Enemies": {
+              "Regular": 71,
+              "Large": 43,
+              "Dark": 6,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 110,
+            "Enemies": {
+              "Regular": 70,
+              "Large": 35,
+              "Dark": 5,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          }
+        },
+        "Level_16": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 3,
+          "Hard": {
+            "TimeForSpawningKnights": 38,
+            "SpeedOfKnights": 50,
+            "MaximumKnights": 120,
+            "Enemies": {
+              "Regular": 74,
+              "Large": 40,
+              "Dark": 6,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 110,
+            "Enemies": {
+              "Regular": 68,
+              "Large": 37,
+              "Dark": 5,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          }
+        },
+        "Level_17": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 4,
+          "Hard": {
+            "TimeForSpawningKnights": 37,
+            "SpeedOfKnights": 50,
+            "MaximumKnights": 120,
+            "Enemies": {
+              "Regular": 75,
+              "Large": 39,
+              "Dark": 6,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 110,
+            "Enemies": {
+              "Regular": 71,
+              "Large": 34,
+              "Dark": 5,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          }
+        },
+        "Level_18": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 4,
+          "Hard": {
+            "TimeForSpawningKnights": 36,
+            "SpeedOfKnights": 50,
+            "MaximumKnights": 120,
+            "Enemies": {
+              "Regular": 72,
+              "Large": 41,
+              "Dark": 7,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 110,
+            "Enemies": {
+              "Regular": 69,
+              "Large": 36,
+              "Dark": 5,
+              "Flying": 0,
+              "Wizard": 0
+            }
+          }
+        },
+        "Level_19": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 3,
+          "Hard": {
+            "TimeForSpawningKnights": 36,
+            "SpeedOfKnights": 50,
+            "MaximumKnights": 130,
+            "Enemies": {
+              "Regular": 77,
+              "Large": 38,
+              "Dark": 8,
+              "Flying": 7,
+              "Wizard": 0
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 115,
+            "Enemies": {
+              "Regular": 69,
+              "Large": 35,
+              "Dark": 6,
+              "Flying": 5,
+              "Wizard": 0
+            }
+          }
+        },
+        "Level_20": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 3,
+          "Hard": {
+            "TimeForSpawningKnights": 40,
+            "SpeedOfKnights": 50,
+            "MaximumKnights": 130,
+            "Enemies": {
+              "Regular": 78,
+              "Large": 41,
+              "Dark": 6,
+              "Flying": 5,
+              "Wizard": 0
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 115,
+            "Enemies": {
+              "Regular": 70,
+              "Large": 34,
+              "Dark": 6,
+              "Flying": 5,
+              "Wizard": 0
+            }
+          }
+        },
+        "Level_21": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 4,
+          "Hard": {
+            "TimeForSpawningKnights": 40,
+            "SpeedOfKnights": 46,
+            "MaximumKnights": 130,
+            "Enemies": {
+              "Regular": 76,
+              "Large": 39,
+              "Dark": 8,
+              "Flying": 7,
+              "Wizard": 0
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 115,
+            "Enemies": {
+              "Regular": 72,
+              "Large": 32,
+              "Dark": 6,
+              "Flying": 5,
+              "Wizard": 0
+            }
+          }
+        },
+        "Level_22": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 4,
+          "Hard": {
+            "TimeForSpawningKnights": 42,
+            "SpeedOfKnights": 46,
+            "MaximumKnights": 130,
+            "Enemies": {
+              "Regular": 77,
+              "Large": 38,
+              "Dark": 8,
+              "Flying": 7,
+              "Wizard": 0
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 115,
+            "Enemies": {
+              "Regular": 70,
+              "Large": 33,
+              "Dark": 6,
+              "Flying": 6,
+              "Wizard": 0
+            }
+          }
+        },
+        "Level_23": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 2,
+          "Hard": {
+            "TimeForSpawningKnights": 40,
+            "SpeedOfKnights": 50,
+            "MaximumKnights": 130,
+            "Enemies": {
+              "Regular": 68,
+              "Large": 47,
+              "Dark": 5,
+              "Flying": 5,
+              "Wizard": 5
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 85,
+            "Enemies": {
+              "Regular": 64,
+              "Large": 38,
+              "Dark": 4,
+              "Flying": 4,
+              "Wizard": 5
+            }
+          }
+        },
+        "Level_24": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 2,
+          "Hard": {
+            "TimeForSpawningKnights": 44,
+            "SpeedOfKnights": 46,
+            "MaximumKnights": 130,
+            "Enemies": {
+              "Regular": 72,
+              "Large": 38,
+              "Dark": 6,
+              "Flying": 7,
+              "Wizard": 7
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 115,
+            "Enemies": {
+              "Regular": 67,
+              "Large": 33,
+              "Dark": 5,
+              "Flying": 5,
+              "Wizard": 5
+            }
+          }
+        },
+        "Level_25": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 3,
+          "Hard": {
+            "TimeForSpawningKnights": 40,
+            "SpeedOfKnights": 48,
+            "MaximumKnights": 130,
+            "Enemies": {
+              "Regular": 70,
+              "Large": 45,
+              "Dark": 5,
+              "Flying": 5,
+              "Wizard": 5
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 115,
+            "Enemies": {
+              "Regular": 64,
+              "Large": 39,
+              "Dark": 4,
+              "Flying": 4,
+              "Wizard": 4
+            }
+          }
+        },
+        "Level_26": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 3,
+          "Hard": {
+            "TimeForSpawningKnights": 40,
+            "SpeedOfKnights": 50,
+            "MaximumKnights": 130,
+            "Enemies": {
+              "Regular": 68,
+              "Large": 45,
+              "Dark": 5,
+              "Flying": 7,
+              "Wizard": 5
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 115,
+            "Enemies": {
+              "Regular": 62,
+              "Large": 40,
+              "Dark": 4,
+              "Flying": 5,
+              "Wizard": 4
+            }
+          }
+        },
+        "Level_27": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 4,
+          "Hard": {
+            "TimeForSpawningKnights": 40,
+            "SpeedOfKnights": 50,
+            "MaximumKnights": 130,
+            "Enemies": {
+              "Regular": 68,
+              "Large": 44,
+              "Dark": 6,
+              "Flying": 6,
+              "Wizard": 6
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 115,
+            "Enemies": {
+              "Regular": 64,
+              "Large": 39,
+              "Dark": 4,
+              "Flying": 4,
+              "Wizard": 4
+            }
+          }
+        },
+        "Level_28": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 4,
+          "Hard": {
+            "TimeForSpawningKnights": 43,
+            "SpeedOfKnights": 50,
+            "MaximumKnights": 130,
+            "Enemies": {
+              "Regular": 69,
+              "Large": 44,
+              "Dark": 6,
+              "Flying": 6,
+              "Wizard": 5
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 115,
+            "Enemies": {
+              "Regular": 64,
+              "Large": 37,
+              "Dark": 5,
+              "Flying": 5,
+              "Wizard": 4
+            }
+          }
+        },
+        "Level_29": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 4,
+          "Hard": {
+            "TimeForSpawningKnights": 42,
+            "SpeedOfKnights": 50,
+            "MaximumKnights": 130,
+            "Enemies": {
+              "Regular": 69,
+              "Large": 46,
+              "Dark": 5,
+              "Flying": 5,
+              "Wizard": 5
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 115,
+            "Enemies": {
+              "Regular": 63,
+              "Large": 39,
+              "Dark": 4,
+              "Flying": 4,
+              "Wizard": 5
+            }
+          }
+        },
+        "Level_30": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 4,
+          "Hard": {
+            "TimeForSpawningKnights": 42,
+            "SpeedOfKnights": 50,
+            "MaximumKnights": 130,
+            "Enemies": {
+              "Regular": 68,
+              "Large": 46,
+              "Dark": 6,
+              "Flying": 5,
+              "Wizard": 5
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 115,
+            "Enemies": {
+              "Regular": 62,
+              "Large": 40,
+              "Dark": 4,
+              "Flying": 4,
+              "Wizard": 5
+            }
+          }
+        },
+        "Level_31": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 4,
+          "Hard": {
+            "TimeForSpawningKnights": 42,
+            "SpeedOfKnights": 46,
+            "MaximumKnights": 120,
+            "Enemies": {
+              "Regular": 64,
+              "Large": 40,
+              "Dark": 5,
+              "Flying": 5,
+              "Wizard": 6
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 110,
+            "Enemies": {
+              "Regular": 62,
+              "Large": 35,
+              "Dark": 5,
+              "Flying": 4,
+              "Wizard": 4
+            }
+          }
+        },
+        "Level_32": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 4,
+          "Hard": {
+            "TimeForSpawningKnights": 43,
+            "SpeedOfKnights": 46,
+            "MaximumKnights": 120,
+            "Enemies": {
+              "Regular": 66,
+              "Large": 39,
+              "Dark": 5,
+              "Flying": 5,
+              "Wizard": 5
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 110,
+            "Enemies": {
+              "Regular": 62,
+              "Large": 36,
+              "Dark": 4,
+              "Flying": 4,
+              "Wizard": 4
+            }
+          }
+        },
+        "Level_33": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 4,
+          "Hard": {
+            "TimeForSpawningKnights": 44,
+            "SpeedOfKnights": 46,
+            "MaximumKnights": 120,
+            "Enemies": {
+              "Regular": 64,
+              "Large": 42,
+              "Dark": 5,
+              "Flying": 4,
+              "Wizard": 5
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 110,
+            "Enemies": {
+              "Regular": 61,
+              "Large": 37,
+              "Dark": 4,
+              "Flying": 4,
+              "Wizard": 4
+            }
+          }
+        },
+        "Level_34": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 4,
+          "Hard": {
+            "TimeForSpawningKnights": 42,
+            "SpeedOfKnights": 48,
+            "MaximumKnights": 120,
+            "Enemies": {
+              "Regular": 66,
+              "Large": 39,
+              "Dark": 5,
+              "Flying": 5,
+              "Wizard": 5
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 110,
+            "Enemies": {
+              "Regular": 66,
+              "Large": 32,
+              "Dark": 4,
+              "Flying": 4,
+              "Wizard": 4
+            }
+          }
+        },
+        "Level_35": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 4,
+          "Hard": {
+            "TimeForSpawningKnights": 42,
+            "SpeedOfKnights": 48,
+            "MaximumKnights": 120,
+            "Enemies": {
+              "Regular": 65,
+              "Large": 38,
+              "Dark": 6,
+              "Flying": 5,
+              "Wizard": 6
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 110,
+            "Enemies": {
+              "Regular": 63,
+              "Large": 33,
+              "Dark": 5,
+              "Flying": 4,
+              "Wizard": 5
+            }
+          }
+        },
+        "Level_36": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 4,
+          "Hard": {
+            "TimeForSpawningKnights": 42,
+            "SpeedOfKnights": 48,
+            "MaximumKnights": 120,
+            "Enemies": {
+              "Regular": 66,
+              "Large": 37,
+              "Dark": 6,
+              "Flying": 5,
+              "Wizard": 6
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 110,
+            "Enemies": {
+              "Regular": 61,
+              "Large": 35,
+              "Dark": 5,
+              "Flying": 4,
+              "Wizard": 5
+            }
+          }
+        },
+        "Level_37": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 4,
+          "Hard": {
+            "TimeForSpawningKnights": 42,
+            "SpeedOfKnights": 48,
+            "MaximumKnights": 120,
+            "Enemies": {
+              "Regular": 65,
+              "Large": 38,
+              "Dark": 6,
+              "Flying": 5,
+              "Wizard": 6
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 110,
+            "Enemies": {
+              "Regular": 63,
+              "Large": 33,
+              "Dark": 5,
+              "Flying": 4,
+              "Wizard": 5
+            }
+          }
+        },
+        "Level_38": {
+          "MaxNumberBallsAvailable": 10,
+          "MaxNumberOfLives": 10,
+          "NumberOfEnemyColor": 4,
+          "NumberOfMapPath": 4,
+          "Hard": {
+            "TimeForSpawningKnights": 42,
+            "SpeedOfKnights": 48,
+            "MaximumKnights": 120,
+            "Enemies": {
+              "Regular": 66,
+              "Large": 36,
+              "Dark": 6,
+              "Flying": 6,
+              "Wizard": 6
+            }
+          },
+          "Normal": {
+            "TimeForSpawningKnights": 50,
+            "SpeedOfKnights": 35,
+            "MaximumKnights": 110,
+            "Enemies": {
+              "Regular": 65,
+              "Large": 30,
+              "Dark": 5,
+              "Flying": 5,
+              "Wizard": 5
+            }
+          }
+        }
+      }
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]
